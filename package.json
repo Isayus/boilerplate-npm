@@ -11,7 +11,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url":  "https://github.com/tu-usuario/boilerplate-npm.git"
+    "url":  "https://github.com/Isayus/boilerplate-npm"
   }
 }
 
